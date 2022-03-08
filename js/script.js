@@ -2,6 +2,7 @@
 
 const myUserInput = document.querySelectorAll('form input');
 const submitBtn = document.querySelector('form input[type="submit"]');
+const rightSideBar = document.querySelector('.box-righ-side');
 // user input start here
 const inputArray = Array.prototype.slice.call(myUserInput);
 // input array destructuring start here
@@ -44,5 +45,18 @@ function formValidate()
     git add .
 */
 
-
-
+/* 
+-------------------------------------------
+ gitHub class 2 start here
+ 
+ git diff 'for logcal stage'
+ git diff --staged 'for staged repojitory'
+ git revert 'mean's undo it means we are just commit now but we think we need to change something of it'
+ git commit --amend 'if we commit unfortunatly then we can modify and add those file then our file will be updated but update number won't be change'
+-------------------------------------- -*practice*-revert updated
+*/
+// git commit --amend start here
+/*
+    const test = document.querySelector('.test);
+    console.log('I love my this is world do you know it')
+*/
