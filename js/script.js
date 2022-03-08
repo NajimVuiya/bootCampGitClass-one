@@ -36,6 +36,12 @@ function formValidate()
     git log --oneline 'it will readuce updated virsion number's number or code'
     git show updated number 'it will show you your all the updated'
     git commit-am 'it will avoid staging area it will just commit'
+    wq and Enter press 'for avoid end '
+    git checkout 'for change brach'
+    git switch -c nameOfBranch 'you can create a new branch'
+    git switch 'go back in previous branch'
+    git add 
+    git add .
 */
 
 
