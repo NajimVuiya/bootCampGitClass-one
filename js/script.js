@@ -51,7 +51,7 @@ function formValidate()
  git diff 'for logcal stage'
  git diff --staged 'for staged repojitory'
  git revert 'mean's undo it means we are just commit now but we think we need to change something of it'
--------------------------------------- --revert updated
+--------------------------------------
 */
 
 
